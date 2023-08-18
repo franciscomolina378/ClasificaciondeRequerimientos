@@ -1,5 +1,5 @@
 # ClasificaciondeRequerimientos
-Grupo conformado por: Francisco Molina y Danilo Carlosama
+Grupo conformado por: Francisco Javier Molina Calderon y Erik Danilo Carlosama Muñoz
 
 REQUISITOS FUNCIONALES
 
